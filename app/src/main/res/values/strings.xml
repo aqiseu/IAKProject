@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">5 Resep Kue Kering</string>
+    <string name="title_activity_scrolling">Nastar Nanas</string>
+    <string name="large_text">
+        "Bahan-bahan : \n\n"
+
+        "250 gr tepung terigu \n"
+        "susu bubuk 1 sendok makan \n"
+        "25 gr tepung maizena \n"
+        "mentega 175 gram \n"
+        "telur 4 butir, 3 untuk adonan, dan 1 untuk olesan \n"
+        "gula halus 50 gram \n"
+        "cengkeh 50 gram, untuk hiasan \n\n"
+
+        "Bahan Selai : \n\n"
+
+        "1/2 buah nanas,parut \n"
+        "garam 1/2 sendok teh \n"
+        "100 gr gula pasir \n\n"
+
+        "Cara Membuat: \n\n"
+
+        "1.Membuat selai nanas : \n"
+        "   – Rebus nanas parut, gula pasir, kayu manis, dan garam hingga agak mengering, aduk hingga berbentuk selai. \n"
+        "2. Membuat Nastar : \n"
+        "   – Campurkan tepung terigu, tepung maizena, dan susu bubuk terus ayak.\n"
+        "3. Kemudian kocok mentega, gula halus, dan kuning telur hingga lembut. \n"
+        "4. Campur semua adonan, aduk hingga rata menggunakan spatula hingga adonan bisa dibentuk. \n"
+        "5. Ambil adonan, bentuk bulatan yang diisi selai nanas. hiasi atasnya dgn cengkeh terus olesi dgn kuning telur \n"
+        "6. Taruhkan di atas loyang yang sudah diolesi margarin secukupnya, panggang selama 25 menit. \n"
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scrolling2">Kue Cornflakes</string>
+    <string name="large_text2">
+        "Bahan-bahan : \n\n"
+        "125 gr terigu \n"
+        "25 gr kacang almond, cincang kasar \n"
+        "65 gr cornflakes, hancurkan kasar \n"
+        "80 gr dark coklat, lelehkan \n"
+        "1 telur \n"
+        "Coco crunch 60 gram \n"
+        "sultana 60 gram \n"
+        "125 gr mentega, cairkan \n"
+        "90 gr gula kaster \n"
+        "1 sendok makan kulit jeruk parut \n\n"
+        "Cara Membuat: \n\n"
+        "1. Campur kulit jeruk parut, coco crunch, kacang almond dan sultana. \n"
+        "2. Campurkan mentega dan gula hingga rata, tambahkan telur kocok hingga mengembang menggunakan mixer. \n"
+        "3. Tambahkan buah-buahan kedalam adonan kue, aduk rata. \n"
+        "4. Bentuk sesuai kenginan, selanjutnya balurkan kedalam cornflakes. \n"
+        "5. Sesudah matang, glasur dgn coklat. \n"
+        "6. Sajikan. \n"
+    </string>
+    <string name="title_activity_scrolling3">Sagu Keju</string>
+    <string name="large_text3">
+        "Bahan-bahan : \n\n"
+        "tepung sagu 450 gram \n"
+        "keju 200 gram \n"
+        "¼ sandok teh vanili \n"
+        "gula 175 gram, dihaluskan \n"
+        "margarine 25 gram \n"
+        "mentega 275 gram \n"
+        "1 butir telur \n\n"
+
+        "Cara Membuat: \n\n"
+        "1. Pertama-tama, kocok margarine, mentega dan gula halus hingga putih dan lembut. \n"
+        "2. Tambahkan telur, kocok kembali hingga rata. \n"
+        "3. Tambahkan keju, masih terus dikocok hingga halus. \n"
+        "4. Masukan tepung sagu dan vanili, aduk rata dgn sendok kayu. \n"
+        "5. Masukkan adonan ke dalam penyemprut kue. Tutup dgn spuit bintang / kembang. \n"
+        "6. Cetak adonan di atas Loyang datar yang sudah diolesi margarine. Taburi dgn keju. Panggang dalam oven bersuhu 18 derajat celcius selama 45 menit hingga kuning dan renyah. \n"
+        "7. Simpan dalam wadah yang tertutup. \n"
+    </string>
+    <string name="large_text4">
+        "Bahan: \n"
+        "500 gram kacang tanah sangrai arinya dikupas \n"
+        "4 kuning telur \n"
+        "margarin secukupnya untuk memoles \n"
+        "400 gula halus \n"
+        "400 minyak goreng \n"
+        "800 gr tepung \n\n"
+
+        "Cara membuat: \n\n"
+        "1. Olah bahan kacang lalu blender sampai halus / bisa juga ditumbuk \n"
+        "2. campurkan kacang dengan tepung, garam, gula halus dan juga tambahkan minyak goreng, ulen adonan tersebut sampai kalis \n"
+        "3. tutup dengan plastik selama kurang lebih 60 menit \n"
+        "4. Yang membedakan resep kami yakni Cara membuat kue kacang adalah kita bisa berkreasi dengan membuat bentuk bulat, bulan sabit maupun berbentuk hati / sesuai selera \n"
+        "5. Setelah adonan habis, taruh semua adonan pada loyang (tambahkan sedikit mentega) \n"
+        "6. Olesi satu persatu adonan dengan campuran kuning telur dan margarin hingga selesai. \n"
+        "7. Lalu panggang sampai 25 menit dalam suhu 170 derajat celcius. \n"
+        "8. Kue kacang siap disajikan. \n"
+    </string>
+    <string name="large_text5">
+        "Bahan: \n\n"
+        "350 gram tepung terigu \n"
+        "2 butir telur \n"
+        "150 gram mentega \n"
+        "150 gram gula palem \n"
+        "1/2 sdt pasta cokelat \n"
+        "1/2 sdt vanili \n"
+        "1/4 sdt garam \n"
+        "200 gram choco chips \n\n"
+        
+        "Cara Membuat: \n\n"
+        "1. Kocok mentega, gula palem dan vanili hingga tercampur rata. \n"
+        "2. Tambahkan telur dan kocok lagi hingga adonan halus dan rata. \n"
+        "3. Masukkan pasta cokelat, aduk hingga tercampur rata. Matikan mixer. \n"
+        "4. Tambahkan tepung terigu dan garam sedikit-demi sedikit hingga tercampur rata. \n"
+        "5. Masukkan choco chips, aduk rata. Adonan siap dicetak. \n"
+        "6. Oles loyang dengan margarin. \n"
+        "7. Ambil sedikit adonan, bulatkan. Letakkan di atas loyang, tekan hingga pipih dengan bantuan garpu. \n"
+        "8. Lakukan hingga adonan habis. \n"
+        "9. Panggang kue dalam oven bersuhu 170 derajat celsius selama 15 menit atau hingga matang. \n"
+        "10. Keluarkan kue, dinginkan, masukkan dalam wadah rapat. \n"
+    </string>
+    <string name="title_activity_scrolling4">Kue Kacang</string>
+    <string name="title_activity_scrolling5">Kue Chocochip</string>
+</resources>
